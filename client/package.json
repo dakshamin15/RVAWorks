@@ -21,7 +21,8 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
-    "start": "react-scripts start --openssl-legacy-provider"
+    "start": "react-scripts start --openssl-legacy-provider",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
